@@ -4,4 +4,4 @@ Source code for [Writing an Interpreter in Go Book](https://interpreterbook.com)
 
 ## LICENSE
 
-Released under [MIT](LICENSE.md)
+Released under [MIT](LICENSE)
