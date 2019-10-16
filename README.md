@@ -1,4 +1,4 @@
-# Writing an Interpreter Go
+# Writing an Interpreter in Go
 
 Source code for [Writing an Interpreter in Go Book](https://interpreterbook.com). Made for learning purpose.
 
